@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Paulo Monteiro</h1>
-<h3 align="center">Cybersecurity | Back End Developer | Front-End Enthusiast</h3>
-
-<p align="center">
-  🚀 Atualmente desenvolvendo o <strong>Barber_Flow</strong>, um sistema inteligente de agendamentos com integração web.
-</p>
+<h3 align="center">Cybersecurity | Back End Developer</h3>
 
 ## 🧰 Languages and Tools
 
